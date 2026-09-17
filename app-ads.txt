@@ -1,0 +1,5 @@
+# Replace this entire file with the exact line AdMob gives you at:
+#   AdMob -> Apps -> View all apps -> Set up app-ads.txt
+# It will look like the line below, with YOUR publisher id:
+#
+# google.com, pub-3977707165506512, DIRECT, f08c47fec0942fa0
